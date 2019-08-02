@@ -3,7 +3,7 @@
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-(only need to check mod of primes)
+NOT DONE YET
 */
 
 #include <stdio.h>
